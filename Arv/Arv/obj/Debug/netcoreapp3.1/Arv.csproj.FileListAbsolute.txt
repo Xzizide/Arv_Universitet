@@ -1,0 +1,13 @@
+C:\Users\emil.andersson20\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.exe
+C:\Users\emil.andersson20\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.deps.json
+C:\Users\emil.andersson20\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.runtimeconfig.json
+C:\Users\emil.andersson20\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.runtimeconfig.dev.json
+C:\Users\emil.andersson20\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.dll
+C:\Users\emil.andersson20\source\repos\Arv\Arv\bin\Debug\netcoreapp3.1\Arv.pdb
+C:\Users\emil.andersson20\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.csprojAssemblyReference.cache
+C:\Users\emil.andersson20\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.AssemblyInfoInputs.cache
+C:\Users\emil.andersson20\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.AssemblyInfo.cs
+C:\Users\emil.andersson20\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.csproj.CoreCompileInputs.cache
+C:\Users\emil.andersson20\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.dll
+C:\Users\emil.andersson20\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.pdb
+C:\Users\emil.andersson20\source\repos\Arv\Arv\obj\Debug\netcoreapp3.1\Arv.genruntimeconfig.cache
